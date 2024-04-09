@@ -106,22 +106,27 @@ This section should list any major frameworks/libraries used to bootstrap your p
    git clone https://github.com/LeahPosen/EmployeeManagementApplication.git
    ```
 2. Navigate to the backend folder:
-  ```sh
+   ```sh
    cd backend
    ```
-3. Start the backend server: dotnet run
+3. Update the data-base in console:
+   ```sh
+   Add-migration anyMigration
+   Update-database
+   ```
+4. Start the backend server:
    ```sh
    ctrl + f5
    ```
-4. Navigate to the frontend folder:
+5. Navigate to the frontend folder:
    ```sh
    cd frontend
      ```
-5. Install dependencies:
+6. Install dependencies:
    ```sh
    npm install
      ```
-6. Start the frontend server:
+7. Start the frontend server:
    ```sh
    npm run dev
    ```
@@ -134,11 +139,12 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 1. Open the browser and navigate to the URL where the frontend server is running (usually http://localhost:5173).
 2. Log in to the system using the LOGIN page.
+
    Name:
    ```sh
    admin
    ```
-  Password:
+   Password:
    ```sh
    123456
    ```
