@@ -1,0 +1,80 @@
+C:\Users\Family\Documents\תכנות\prcticum\WorkersServer\Workers.Core\bin\Debug\net6.0\Workers.Core.exe
+C:\Users\Family\Documents\תכנות\prcticum\WorkersServer\Workers.Core\bin\Debug\net6.0\Workers.Core.deps.json
+C:\Users\Family\Documents\תכנות\prcticum\WorkersServer\Workers.Core\bin\Debug\net6.0\Workers.Core.runtimeconfig.json
+C:\Users\Family\Documents\תכנות\prcticum\WorkersServer\Workers.Core\bin\Debug\net6.0\Workers.Core.dll
+C:\Users\Family\Documents\תכנות\prcticum\WorkersServer\Workers.Core\bin\Debug\net6.0\Workers.Core.pdb
+C:\Users\Family\Documents\תכנות\prcticum\WorkersServer\Workers.Core\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Family\Documents\תכנות\prcticum\WorkersServer\Workers.Core\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Family\Documents\תכנות\prcticum\WorkersServer\Workers.Core\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Family\Documents\תכנות\prcticum\WorkersServer\Workers.Core\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Family\Documents\תכנות\prcticum\WorkersServer\Workers.Core\obj\Debug\net6.0\Workers.Core.csproj.AssemblyReference.cache
+C:\Users\Family\Documents\תכנות\prcticum\WorkersServer\Workers.Core\obj\Debug\net6.0\Workers.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Family\Documents\תכנות\prcticum\WorkersServer\Workers.Core\obj\Debug\net6.0\Workers.Core.AssemblyInfoInputs.cache
+C:\Users\Family\Documents\תכנות\prcticum\WorkersServer\Workers.Core\obj\Debug\net6.0\Workers.Core.AssemblyInfo.cs
+C:\Users\Family\Documents\תכנות\prcticum\WorkersServer\Workers.Core\obj\Debug\net6.0\Workers.Core.csproj.CoreCompileInputs.cache
+C:\Users\Family\Documents\תכנות\prcticum\WorkersServer\Workers.Core\obj\Debug\net6.0\Workers.Core.csproj.CopyComplete
+C:\Users\Family\Documents\תכנות\prcticum\WorkersServer\Workers.Core\obj\Debug\net6.0\Workers.Core.dll
+C:\Users\Family\Documents\תכנות\prcticum\WorkersServer\Workers.Core\obj\Debug\net6.0\refint\Workers.Core.dll
+C:\Users\Family\Documents\תכנות\prcticum\WorkersServer\Workers.Core\obj\Debug\net6.0\Workers.Core.pdb
+C:\Users\Family\Documents\תכנות\prcticum\WorkersServer\Workers.Core\obj\Debug\net6.0\Workers.Core.genruntimeconfig.cache
+C:\Users\Family\Documents\תכנות\prcticum\WorkersServer\Workers.Core\obj\Debug\net6.0\ref\Workers.Core.dll
+Y:\Groups\Group_4\פוזן  לאה\prcticum\WorkersServer\Workers.Core\bin\Debug\net6.0\Workers.Core.exe
+Y:\Groups\Group_4\פוזן  לאה\prcticum\WorkersServer\Workers.Core\bin\Debug\net6.0\Workers.Core.deps.json
+Y:\Groups\Group_4\פוזן  לאה\prcticum\WorkersServer\Workers.Core\bin\Debug\net6.0\Workers.Core.runtimeconfig.json
+Y:\Groups\Group_4\פוזן  לאה\prcticum\WorkersServer\Workers.Core\bin\Debug\net6.0\Workers.Core.dll
+Y:\Groups\Group_4\פוזן  לאה\prcticum\WorkersServer\Workers.Core\bin\Debug\net6.0\Workers.Core.pdb
+Y:\Groups\Group_4\פוזן  לאה\prcticum\WorkersServer\Workers.Core\bin\Debug\net6.0\AutoMapper.dll
+Y:\Groups\Group_4\פוזן  לאה\prcticum\WorkersServer\Workers.Core\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+Y:\Groups\Group_4\פוזן  לאה\prcticum\WorkersServer\Workers.Core\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+Y:\Groups\Group_4\פוזן  לאה\prcticum\WorkersServer\Workers.Core\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+Y:\Groups\Group_4\פוזן  לאה\prcticum\WorkersServer\Workers.Core\obj\Debug\net6.0\Workers.Core.csproj.AssemblyReference.cache
+Y:\Groups\Group_4\פוזן  לאה\prcticum\WorkersServer\Workers.Core\obj\Debug\net6.0\Workers.Core.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_4\פוזן  לאה\prcticum\WorkersServer\Workers.Core\obj\Debug\net6.0\Workers.Core.AssemblyInfoInputs.cache
+Y:\Groups\Group_4\פוזן  לאה\prcticum\WorkersServer\Workers.Core\obj\Debug\net6.0\Workers.Core.AssemblyInfo.cs
+Y:\Groups\Group_4\פוזן  לאה\prcticum\WorkersServer\Workers.Core\obj\Debug\net6.0\Workers.Core.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_4\פוזן  לאה\prcticum\WorkersServer\Workers.Core\obj\Debug\net6.0\Workers.Core.csproj.CopyComplete
+Y:\Groups\Group_4\פוזן  לאה\prcticum\WorkersServer\Workers.Core\obj\Debug\net6.0\Workers.Core.dll
+Y:\Groups\Group_4\פוזן  לאה\prcticum\WorkersServer\Workers.Core\obj\Debug\net6.0\refint\Workers.Core.dll
+Y:\Groups\Group_4\פוזן  לאה\prcticum\WorkersServer\Workers.Core\obj\Debug\net6.0\Workers.Core.pdb
+Y:\Groups\Group_4\פוזן  לאה\prcticum\WorkersServer\Workers.Core\obj\Debug\net6.0\Workers.Core.genruntimeconfig.cache
+Y:\Groups\Group_4\פוזן  לאה\prcticum\WorkersServer\Workers.Core\obj\Debug\net6.0\ref\Workers.Core.dll
+C:\Users\Family\Documents\תכנות\prcticum\‏‏WorkersServer - עותק\Workers.Core\bin\Debug\net6.0\Workers.Core.exe
+C:\Users\Family\Documents\תכנות\prcticum\‏‏WorkersServer - עותק\Workers.Core\bin\Debug\net6.0\Workers.Core.deps.json
+C:\Users\Family\Documents\תכנות\prcticum\‏‏WorkersServer - עותק\Workers.Core\bin\Debug\net6.0\Workers.Core.runtimeconfig.json
+C:\Users\Family\Documents\תכנות\prcticum\‏‏WorkersServer - עותק\Workers.Core\bin\Debug\net6.0\Workers.Core.dll
+C:\Users\Family\Documents\תכנות\prcticum\‏‏WorkersServer - עותק\Workers.Core\bin\Debug\net6.0\Workers.Core.pdb
+C:\Users\Family\Documents\תכנות\prcticum\‏‏WorkersServer - עותק\Workers.Core\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Family\Documents\תכנות\prcticum\‏‏WorkersServer - עותק\Workers.Core\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Family\Documents\תכנות\prcticum\‏‏WorkersServer - עותק\Workers.Core\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Family\Documents\תכנות\prcticum\‏‏WorkersServer - עותק\Workers.Core\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Family\Documents\תכנות\prcticum\‏‏WorkersServer - עותק\Workers.Core\obj\Debug\net6.0\Workers.Core.csproj.AssemblyReference.cache
+C:\Users\Family\Documents\תכנות\prcticum\‏‏WorkersServer - עותק\Workers.Core\obj\Debug\net6.0\Workers.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Family\Documents\תכנות\prcticum\‏‏WorkersServer - עותק\Workers.Core\obj\Debug\net6.0\Workers.Core.AssemblyInfoInputs.cache
+C:\Users\Family\Documents\תכנות\prcticum\‏‏WorkersServer - עותק\Workers.Core\obj\Debug\net6.0\Workers.Core.AssemblyInfo.cs
+C:\Users\Family\Documents\תכנות\prcticum\‏‏WorkersServer - עותק\Workers.Core\obj\Debug\net6.0\Workers.Core.csproj.CoreCompileInputs.cache
+C:\Users\Family\Documents\תכנות\prcticum\‏‏WorkersServer - עותק\Workers.Core\obj\Debug\net6.0\Workers.Core.csproj.CopyComplete
+C:\Users\Family\Documents\תכנות\prcticum\‏‏WorkersServer - עותק\Workers.Core\obj\Debug\net6.0\Workers.Core.dll
+C:\Users\Family\Documents\תכנות\prcticum\‏‏WorkersServer - עותק\Workers.Core\obj\Debug\net6.0\refint\Workers.Core.dll
+C:\Users\Family\Documents\תכנות\prcticum\‏‏WorkersServer - עותק\Workers.Core\obj\Debug\net6.0\Workers.Core.pdb
+C:\Users\Family\Documents\תכנות\prcticum\‏‏WorkersServer - עותק\Workers.Core\obj\Debug\net6.0\Workers.Core.genruntimeconfig.cache
+C:\Users\Family\Documents\תכנות\prcticum\‏‏WorkersServer - עותק\Workers.Core\obj\Debug\net6.0\ref\Workers.Core.dll
+C:\Users\Family\Documents\תכנות\prcticum\שרת מתקדם שכלול של רבים לרבים\Workers.Core\bin\Debug\net6.0\Workers.Core.exe
+C:\Users\Family\Documents\תכנות\prcticum\שרת מתקדם שכלול של רבים לרבים\Workers.Core\bin\Debug\net6.0\Workers.Core.deps.json
+C:\Users\Family\Documents\תכנות\prcticum\שרת מתקדם שכלול של רבים לרבים\Workers.Core\bin\Debug\net6.0\Workers.Core.runtimeconfig.json
+C:\Users\Family\Documents\תכנות\prcticum\שרת מתקדם שכלול של רבים לרבים\Workers.Core\bin\Debug\net6.0\Workers.Core.dll
+C:\Users\Family\Documents\תכנות\prcticum\שרת מתקדם שכלול של רבים לרבים\Workers.Core\bin\Debug\net6.0\Workers.Core.pdb
+C:\Users\Family\Documents\תכנות\prcticum\שרת מתקדם שכלול של רבים לרבים\Workers.Core\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Family\Documents\תכנות\prcticum\שרת מתקדם שכלול של רבים לרבים\Workers.Core\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Family\Documents\תכנות\prcticum\שרת מתקדם שכלול של רבים לרבים\Workers.Core\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Family\Documents\תכנות\prcticum\שרת מתקדם שכלול של רבים לרבים\Workers.Core\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Family\Documents\תכנות\prcticum\שרת מתקדם שכלול של רבים לרבים\Workers.Core\obj\Debug\net6.0\Workers.Core.csproj.AssemblyReference.cache
+C:\Users\Family\Documents\תכנות\prcticum\שרת מתקדם שכלול של רבים לרבים\Workers.Core\obj\Debug\net6.0\Workers.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Family\Documents\תכנות\prcticum\שרת מתקדם שכלול של רבים לרבים\Workers.Core\obj\Debug\net6.0\Workers.Core.AssemblyInfoInputs.cache
+C:\Users\Family\Documents\תכנות\prcticum\שרת מתקדם שכלול של רבים לרבים\Workers.Core\obj\Debug\net6.0\Workers.Core.AssemblyInfo.cs
+C:\Users\Family\Documents\תכנות\prcticum\שרת מתקדם שכלול של רבים לרבים\Workers.Core\obj\Debug\net6.0\Workers.Core.csproj.CoreCompileInputs.cache
+C:\Users\Family\Documents\תכנות\prcticum\שרת מתקדם שכלול של רבים לרבים\Workers.Core\obj\Debug\net6.0\Workers.Core.csproj.CopyComplete
+C:\Users\Family\Documents\תכנות\prcticum\שרת מתקדם שכלול של רבים לרבים\Workers.Core\obj\Debug\net6.0\Workers.Core.dll
+C:\Users\Family\Documents\תכנות\prcticum\שרת מתקדם שכלול של רבים לרבים\Workers.Core\obj\Debug\net6.0\refint\Workers.Core.dll
+C:\Users\Family\Documents\תכנות\prcticum\שרת מתקדם שכלול של רבים לרבים\Workers.Core\obj\Debug\net6.0\Workers.Core.pdb
+C:\Users\Family\Documents\תכנות\prcticum\שרת מתקדם שכלול של רבים לרבים\Workers.Core\obj\Debug\net6.0\Workers.Core.genruntimeconfig.cache
+C:\Users\Family\Documents\תכנות\prcticum\שרת מתקדם שכלול של רבים לרבים\Workers.Core\obj\Debug\net6.0\ref\Workers.Core.dll
